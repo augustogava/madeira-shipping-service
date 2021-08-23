@@ -20,4 +20,5 @@
 
 ### Build docker
 docker build -t madeira/shipping:latest .
+
 docker run -p8085:8085 madeira/shipping:latest
