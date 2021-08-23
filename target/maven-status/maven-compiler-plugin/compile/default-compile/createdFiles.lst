@@ -1,0 +1,6 @@
+br/com/mandeira/shipping/controller/ShippingController.class
+br/com/mandeira/shipping/repository/ShippingRepository.class
+br/com/mandeira/shipping/BackendApplication.class
+br/com/mandeira/shipping/service/ShippingService.class
+br/com/mandeira/shipping/model/dto/ShippingInDTO.class
+br/com/mandeira/shipping/model/ShippingStatus.class

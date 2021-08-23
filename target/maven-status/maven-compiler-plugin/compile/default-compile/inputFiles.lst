@@ -1,0 +1,6 @@
+/home/augusto/Documents/Work/fiap/madeiramadeira/shipping-service/src/main/java/br/com/mandeira/shipping/model/ShippingStatus.java
+/home/augusto/Documents/Work/fiap/madeiramadeira/shipping-service/src/main/java/br/com/mandeira/shipping/BackendApplication.java
+/home/augusto/Documents/Work/fiap/madeiramadeira/shipping-service/src/main/java/br/com/mandeira/shipping/repository/ShippingRepository.java
+/home/augusto/Documents/Work/fiap/madeiramadeira/shipping-service/src/main/java/br/com/mandeira/shipping/model/dto/ShippingInDTO.java
+/home/augusto/Documents/Work/fiap/madeiramadeira/shipping-service/src/main/java/br/com/mandeira/shipping/controller/ShippingController.java
+/home/augusto/Documents/Work/fiap/madeiramadeira/shipping-service/src/main/java/br/com/mandeira/shipping/service/ShippingService.java

@@ -1,0 +1,33 @@
+spring:
+#  profiles:
+#    active: dev
+  main:
+    # Habilita a reescrita da definição de beans, quando registrar um bean com um nome existente.
+    allow-bean-definition-overriding: true
+  jackson:
+    serialization:
+      # Habilita possibilidade de serialização de beans vazios sem erros
+      fail-on-empty-beans: false
+    # Habilita inicialização de componentes sob demanada.
+    lazy-initialization: true
+
+
+  # CONFIGURAÇÕES GENÉRICAS
+  data:
+    rest:
+      # URL base da aplicação.
+      base-path: /api
+
+# CONFIGURAÇÃO DO SERVIDOR (API)
+server:
+  # Define a porta utilizada pelo servidor do context-path.
+  port: 8085
+  error:
+    include-stacktrace: on_trace_param
+
+
+# CONFIGURAÇÕES DE LOG:
+logging:
+  # Define o nível do log para cada um dos pacotes.
+  level:
+    root: INFO
